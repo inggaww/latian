@@ -1,0 +1,2 @@
+# latian
+latihan di jongkooding
